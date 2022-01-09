@@ -1,3 +1,3 @@
-<h1> DevOPs with Khalid </h1>
-<h2> Maven Project deploying on Tomcat Server</h2>
-<h3> using Jenkins CICD Pipeline</h3>
+<h1> DevOPs project With Team7 </h1>
+<h2> Using Git hub, Jenking, Maven, Docker</h2>
+<h3> Jenkins CICD Pipeline</h3>
