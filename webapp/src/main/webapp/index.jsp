@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MSc in Cloud & Network Security</title>
+    <title>MSc DevOps Group</title>
 </head>
 <body bgcolor="#ffffff">
 <body>
